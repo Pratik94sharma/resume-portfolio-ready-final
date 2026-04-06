@@ -1,0 +1,11 @@
+[33mfda0906[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m fix: update README.md
+[33m399cfa8[m fix: correct package.json syntax and node engine
+[33m4821d1d[m fix: update node engine version for vercel build
+[33m0fe925d[m fix: downgrade vite to v7 + oxc plugin
+[33mc29c676[m fix: vite config corrected
+[33m4be3b56[m final fix: working build for vercel
+[33m891b2cb[m Initial commit - portfolio project
+[33m6548ca3[m fix: vercel routing issue
+[33m4fc1a01[m fix: correct build script
+[33m79076fa[m fix: build error resolved
+[33mf9123ef[m Initial commit
